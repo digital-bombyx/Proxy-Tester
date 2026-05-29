@@ -1,7 +1,8 @@
-🇷🇺 [Русский](#-proxy-tester) | 🇬🇧 [English](#-proxy-tester-1)
+🇷🇺 [Русский](#ru) | 🇬🇧 [English](#en)
 
 ---
 
+<a id="ru"></a>
 # 🛡️ Proxy Tester
 
 **Многопоточный тестер прокси-конфигов с поддержкой VLESS, VMESS, Trojan и Shadowsocks.**
@@ -67,6 +68,7 @@ Pull request'ы приветствуются! Если вы нашли баг и
 ---
 ---
 
+<a id="en"></a>
 # 🛡️ Proxy Tester
 
 **Multi-threaded proxy config tester with support for VLESS, VMESS, Trojan, and Shadowsocks.**
