@@ -1,4 +1,4 @@
-🇷🇺 [Русский](#-proxy-tester) | 🇬🇧 [English](#-proxy-tester-1)
+🇷🇺 [Русский](#proxy-tester) | 🇬🇧 [English](#proxy-tester-1)
 
 ---
 
